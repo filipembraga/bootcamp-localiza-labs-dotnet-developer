@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dotnet\Projetos\Projeto1DIO\bin\Debug\net5.0\Projeto1DIO.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dotnet\Projetos\Projeto1DIO\bin\Debug\net5.0\Projeto1DIO.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dotnet\Projetos\Projeto1DIO\bin\Debug\net5.0\Projeto1DIO.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dotnet\Projetos\Projeto1DIO\bin\Debug\net5.0\Projeto1DIO.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dotnet\Projetos\Projeto1DIO\bin\Debug\net5.0\Projeto1DIO.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dotnet\Projetos\Projeto1DIO\bin\Debug\net5.0\ref\Projeto1DIO.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dotnet\Projetos\Projeto1DIO\bin\Debug\net5.0\Projeto1DIO.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dotnet\Projetos\Projeto1DIO\obj\Debug\net5.0\Projeto1DIO.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dotnet\Projetos\Projeto1DIO\obj\Debug\net5.0\Projeto1DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dotnet\Projetos\Projeto1DIO\obj\Debug\net5.0\Projeto1DIO.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dotnet\Projetos\Projeto1DIO\obj\Debug\net5.0\Projeto1DIO.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dotnet\Projetos\Projeto1DIO\obj\Debug\net5.0\Projeto1DIO.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dotnet\Projetos\Projeto1DIO\obj\Debug\net5.0\Projeto1DIO.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dotnet\Projetos\Projeto1DIO\obj\Debug\net5.0\ref\Projeto1DIO.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dotnet\Projetos\Projeto1DIO\obj\Debug\net5.0\Projeto1DIO.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dotnet\Projetos\Projeto1DIO\obj\Debug\net5.0\Projeto1DIO.genruntimeconfig.cache
