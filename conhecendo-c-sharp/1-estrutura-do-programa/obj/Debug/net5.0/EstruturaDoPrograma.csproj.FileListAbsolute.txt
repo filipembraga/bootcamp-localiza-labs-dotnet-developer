@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\conhecendo-c-sharp\1-estrutura-do-programa\bin\Debug\net5.0\EstruturaDoPrograma.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\conhecendo-c-sharp\1-estrutura-do-programa\bin\Debug\net5.0\EstruturaDoPrograma.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\conhecendo-c-sharp\1-estrutura-do-programa\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\conhecendo-c-sharp\1-estrutura-do-programa\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\conhecendo-c-sharp\1-estrutura-do-programa\bin\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\conhecendo-c-sharp\1-estrutura-do-programa\bin\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\conhecendo-c-sharp\1-estrutura-do-programa\bin\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\conhecendo-c-sharp\1-estrutura-do-programa\obj\Debug\net5.0\EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\conhecendo-c-sharp\1-estrutura-do-programa\obj\Debug\net5.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\conhecendo-c-sharp\1-estrutura-do-programa\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\conhecendo-c-sharp\1-estrutura-do-programa\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\conhecendo-c-sharp\1-estrutura-do-programa\obj\Debug\net5.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\conhecendo-c-sharp\1-estrutura-do-programa\obj\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\conhecendo-c-sharp\1-estrutura-do-programa\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\conhecendo-c-sharp\1-estrutura-do-programa\obj\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\conhecendo-c-sharp\1-estrutura-do-programa\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache
