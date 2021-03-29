@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\1-consumo-medio-automovel\bin\Debug\net5.0\ConsumoMedioAutomovel.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\1-consumo-medio-automovel\bin\Debug\net5.0\ConsumoMedioAutomovel.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\1-consumo-medio-automovel\bin\Debug\net5.0\ConsumoMedioAutomovel.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\1-consumo-medio-automovel\bin\Debug\net5.0\ConsumoMedioAutomovel.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\1-consumo-medio-automovel\bin\Debug\net5.0\ConsumoMedioAutomovel.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\1-consumo-medio-automovel\bin\Debug\net5.0\ref\ConsumoMedioAutomovel.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\1-consumo-medio-automovel\bin\Debug\net5.0\ConsumoMedioAutomovel.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\1-consumo-medio-automovel\obj\Debug\net5.0\ConsumoMedioAutomovel.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\1-consumo-medio-automovel\obj\Debug\net5.0\ConsumoMedioAutomovel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\1-consumo-medio-automovel\obj\Debug\net5.0\ConsumoMedioAutomovel.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\1-consumo-medio-automovel\obj\Debug\net5.0\ConsumoMedioAutomovel.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\1-consumo-medio-automovel\obj\Debug\net5.0\ConsumoMedioAutomovel.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\1-consumo-medio-automovel\obj\Debug\net5.0\ConsumoMedioAutomovel.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\1-consumo-medio-automovel\obj\Debug\net5.0\ref\ConsumoMedioAutomovel.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\1-consumo-medio-automovel\obj\Debug\net5.0\ConsumoMedioAutomovel.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\1-consumo-medio-automovel\obj\Debug\net5.0\ConsumoMedioAutomovel.genruntimeconfig.cache

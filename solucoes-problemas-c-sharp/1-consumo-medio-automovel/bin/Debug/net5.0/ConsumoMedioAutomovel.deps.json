@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsumoMedioAutomovel/1.0.0": {
+        "runtime": {
+          "ConsumoMedioAutomovel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsumoMedioAutomovel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
