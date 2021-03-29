@@ -14,7 +14,9 @@ namespace ConsumoMedioAutomovel
             comb = Convert.ToDouble(Console.ReadLine());
             media = dist / comb;
 
-            Console.WriteLine("O consumo médio percorrendo {1} km gastando {2} litros é {0:0.000} km/l", media, dist, comb);
+            //Essa saída é didática, não retornando o resultado esperado pelo console do curso, que seria apenas "{0:0.000} km/l".
+            Console.WriteLine("O consumo médio percorrendo {1} km gastando {2} litros é {0:0.000} km/l", media, dist, comb); 
+
         }
     }
 }
