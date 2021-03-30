@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\2-ddd\bin\Debug\net5.0\2-ddd.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\2-ddd\bin\Debug\net5.0\2-ddd.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\2-ddd\bin\Debug\net5.0\2-ddd.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\2-ddd\bin\Debug\net5.0\2-ddd.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\2-ddd\bin\Debug\net5.0\2-ddd.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\2-ddd\bin\Debug\net5.0\ref\2-ddd.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\2-ddd\bin\Debug\net5.0\2-ddd.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\2-ddd\obj\Debug\net5.0\2-ddd.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\2-ddd\obj\Debug\net5.0\2-ddd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\2-ddd\obj\Debug\net5.0\2-ddd.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\2-ddd\obj\Debug\net5.0\2-ddd.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\2-ddd\obj\Debug\net5.0\2-ddd.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\2-ddd\obj\Debug\net5.0\2-ddd.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\2-ddd\obj\Debug\net5.0\ref\2-ddd.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\2-ddd\obj\Debug\net5.0\2-ddd.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\2-ddd\obj\Debug\net5.0\2-ddd.genruntimeconfig.cache
