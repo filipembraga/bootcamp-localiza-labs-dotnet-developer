@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\3-aumento-salario\obj\Debug\net5.0\3-aumento-salario.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\3-aumento-salario\obj\Debug\net5.0\3-aumento-salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\3-aumento-salario\obj\Debug\net5.0\3-aumento-salario.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\3-aumento-salario\obj\Debug\net5.0\3-aumento-salario.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\3-aumento-salario\obj\Debug\net5.0\3-aumento-salario.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\3-aumento-salario\bin\Debug\net5.0\3-aumento-salario.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\3-aumento-salario\bin\Debug\net5.0\3-aumento-salario.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\3-aumento-salario\bin\Debug\net5.0\3-aumento-salario.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\3-aumento-salario\bin\Debug\net5.0\3-aumento-salario.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\3-aumento-salario\bin\Debug\net5.0\3-aumento-salario.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\3-aumento-salario\bin\Debug\net5.0\ref\3-aumento-salario.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\3-aumento-salario\bin\Debug\net5.0\3-aumento-salario.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\3-aumento-salario\obj\Debug\net5.0\3-aumento-salario.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\3-aumento-salario\obj\Debug\net5.0\ref\3-aumento-salario.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\3-aumento-salario\obj\Debug\net5.0\3-aumento-salario.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\solucoes-problemas-c-sharp\3-aumento-salario\obj\Debug\net5.0\3-aumento-salario.genruntimeconfig.cache
