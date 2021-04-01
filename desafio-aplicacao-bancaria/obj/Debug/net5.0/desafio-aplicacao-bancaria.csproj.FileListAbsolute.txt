@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-aplicacao-bancaria\bin\Debug\net5.0\desafio-aplicacao-bancaria.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-aplicacao-bancaria\bin\Debug\net5.0\desafio-aplicacao-bancaria.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-aplicacao-bancaria\bin\Debug\net5.0\desafio-aplicacao-bancaria.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-aplicacao-bancaria\bin\Debug\net5.0\desafio-aplicacao-bancaria.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-aplicacao-bancaria\bin\Debug\net5.0\desafio-aplicacao-bancaria.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-aplicacao-bancaria\bin\Debug\net5.0\ref\desafio-aplicacao-bancaria.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-aplicacao-bancaria\bin\Debug\net5.0\desafio-aplicacao-bancaria.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-aplicacao-bancaria\obj\Debug\net5.0\desafio-aplicacao-bancaria.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-aplicacao-bancaria\obj\Debug\net5.0\desafio-aplicacao-bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-aplicacao-bancaria\obj\Debug\net5.0\desafio-aplicacao-bancaria.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-aplicacao-bancaria\obj\Debug\net5.0\desafio-aplicacao-bancaria.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-aplicacao-bancaria\obj\Debug\net5.0\desafio-aplicacao-bancaria.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-aplicacao-bancaria\obj\Debug\net5.0\desafio-aplicacao-bancaria.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-aplicacao-bancaria\obj\Debug\net5.0\ref\desafio-aplicacao-bancaria.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-aplicacao-bancaria\obj\Debug\net5.0\desafio-aplicacao-bancaria.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-aplicacao-bancaria\obj\Debug\net5.0\desafio-aplicacao-bancaria.genruntimeconfig.cache
