@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\4-tempo-de-um-evento\bin\Debug\net5.0\4-tempo-de-um-evento.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\4-tempo-de-um-evento\bin\Debug\net5.0\4-tempo-de-um-evento.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\4-tempo-de-um-evento\bin\Debug\net5.0\4-tempo-de-um-evento.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\4-tempo-de-um-evento\bin\Debug\net5.0\4-tempo-de-um-evento.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\4-tempo-de-um-evento\bin\Debug\net5.0\4-tempo-de-um-evento.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\4-tempo-de-um-evento\bin\Debug\net5.0\ref\4-tempo-de-um-evento.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\4-tempo-de-um-evento\bin\Debug\net5.0\4-tempo-de-um-evento.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\4-tempo-de-um-evento\obj\Debug\net5.0\4-tempo-de-um-evento.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\4-tempo-de-um-evento\obj\Debug\net5.0\4-tempo-de-um-evento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\4-tempo-de-um-evento\obj\Debug\net5.0\4-tempo-de-um-evento.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\4-tempo-de-um-evento\obj\Debug\net5.0\4-tempo-de-um-evento.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\4-tempo-de-um-evento\obj\Debug\net5.0\4-tempo-de-um-evento.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\4-tempo-de-um-evento\obj\Debug\net5.0\4-tempo-de-um-evento.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\4-tempo-de-um-evento\obj\Debug\net5.0\ref\4-tempo-de-um-evento.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\4-tempo-de-um-evento\obj\Debug\net5.0\4-tempo-de-um-evento.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\4-tempo-de-um-evento\obj\Debug\net5.0\4-tempo-de-um-evento.genruntimeconfig.cache
