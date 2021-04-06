@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\1-media-1\bin\Debug\net5.0\1-media-1.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\1-media-1\bin\Debug\net5.0\1-media-1.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\1-media-1\bin\Debug\net5.0\1-media-1.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\1-media-1\bin\Debug\net5.0\1-media-1.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\1-media-1\bin\Debug\net5.0\1-media-1.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\1-media-1\bin\Debug\net5.0\ref\1-media-1.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\1-media-1\bin\Debug\net5.0\1-media-1.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\1-media-1\obj\Debug\net5.0\1-media-1.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\1-media-1\obj\Debug\net5.0\1-media-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\1-media-1\obj\Debug\net5.0\1-media-1.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\1-media-1\obj\Debug\net5.0\1-media-1.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\1-media-1\obj\Debug\net5.0\1-media-1.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\1-media-1\obj\Debug\net5.0\1-media-1.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\1-media-1\obj\Debug\net5.0\ref\1-media-1.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\1-media-1\obj\Debug\net5.0\1-media-1.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\1-media-1\obj\Debug\net5.0\1-media-1.genruntimeconfig.cache
