@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\3-bazinga\bin\Debug\net5.0\3-bazinga.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\3-bazinga\bin\Debug\net5.0\3-bazinga.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\3-bazinga\bin\Debug\net5.0\3-bazinga.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\3-bazinga\bin\Debug\net5.0\3-bazinga.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\3-bazinga\bin\Debug\net5.0\3-bazinga.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\3-bazinga\bin\Debug\net5.0\ref\3-bazinga.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\3-bazinga\bin\Debug\net5.0\3-bazinga.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\3-bazinga\obj\Debug\net5.0\3-bazinga.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\3-bazinga\obj\Debug\net5.0\3-bazinga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\3-bazinga\obj\Debug\net5.0\3-bazinga.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\3-bazinga\obj\Debug\net5.0\3-bazinga.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\3-bazinga\obj\Debug\net5.0\3-bazinga.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\3-bazinga\obj\Debug\net5.0\3-bazinga.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\3-bazinga\obj\Debug\net5.0\ref\3-bazinga.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\3-bazinga\obj\Debug\net5.0\3-bazinga.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\3-bazinga\obj\Debug\net5.0\3-bazinga.genruntimeconfig.cache
