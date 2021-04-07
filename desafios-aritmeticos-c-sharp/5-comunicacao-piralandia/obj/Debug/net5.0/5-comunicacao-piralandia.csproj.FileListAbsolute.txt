@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\5-comunicacao-piralandia\bin\Debug\net5.0\5-comunicacao-piralandia.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\5-comunicacao-piralandia\bin\Debug\net5.0\5-comunicacao-piralandia.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\5-comunicacao-piralandia\bin\Debug\net5.0\5-comunicacao-piralandia.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\5-comunicacao-piralandia\bin\Debug\net5.0\5-comunicacao-piralandia.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\5-comunicacao-piralandia\bin\Debug\net5.0\5-comunicacao-piralandia.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\5-comunicacao-piralandia\bin\Debug\net5.0\ref\5-comunicacao-piralandia.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\5-comunicacao-piralandia\bin\Debug\net5.0\5-comunicacao-piralandia.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\5-comunicacao-piralandia\obj\Debug\net5.0\5-comunicacao-piralandia.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\5-comunicacao-piralandia\obj\Debug\net5.0\5-comunicacao-piralandia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\5-comunicacao-piralandia\obj\Debug\net5.0\5-comunicacao-piralandia.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\5-comunicacao-piralandia\obj\Debug\net5.0\5-comunicacao-piralandia.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\5-comunicacao-piralandia\obj\Debug\net5.0\5-comunicacao-piralandia.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\5-comunicacao-piralandia\obj\Debug\net5.0\5-comunicacao-piralandia.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\5-comunicacao-piralandia\obj\Debug\net5.0\ref\5-comunicacao-piralandia.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\5-comunicacao-piralandia\obj\Debug\net5.0\5-comunicacao-piralandia.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-aritmeticos-c-sharp\5-comunicacao-piralandia\obj\Debug\net5.0\5-comunicacao-piralandia.genruntimeconfig.cache
