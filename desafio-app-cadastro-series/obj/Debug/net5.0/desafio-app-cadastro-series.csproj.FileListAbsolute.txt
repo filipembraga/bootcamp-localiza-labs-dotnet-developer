@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-app-cadastro-series\bin\Debug\net5.0\desafio-app-cadastro-series.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-app-cadastro-series\bin\Debug\net5.0\desafio-app-cadastro-series.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-app-cadastro-series\bin\Debug\net5.0\desafio-app-cadastro-series.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-app-cadastro-series\bin\Debug\net5.0\desafio-app-cadastro-series.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-app-cadastro-series\bin\Debug\net5.0\desafio-app-cadastro-series.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-app-cadastro-series\bin\Debug\net5.0\ref\desafio-app-cadastro-series.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-app-cadastro-series\bin\Debug\net5.0\desafio-app-cadastro-series.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-app-cadastro-series\obj\Debug\net5.0\desafio-app-cadastro-series.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-app-cadastro-series\obj\Debug\net5.0\desafio-app-cadastro-series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-app-cadastro-series\obj\Debug\net5.0\desafio-app-cadastro-series.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-app-cadastro-series\obj\Debug\net5.0\desafio-app-cadastro-series.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-app-cadastro-series\obj\Debug\net5.0\desafio-app-cadastro-series.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-app-cadastro-series\obj\Debug\net5.0\desafio-app-cadastro-series.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-app-cadastro-series\obj\Debug\net5.0\ref\desafio-app-cadastro-series.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-app-cadastro-series\obj\Debug\net5.0\desafio-app-cadastro-series.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafio-app-cadastro-series\obj\Debug\net5.0\desafio-app-cadastro-series.genruntimeconfig.cache
