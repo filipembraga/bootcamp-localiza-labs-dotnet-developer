@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-CursoMVC",
+      "appliesTo": "desenvolvendo-aplicacoes-dotnet/1-criando-primeira-aplicacao-asp-dotnet/CursoMVC/CursoMVC.sln",
+      "type": "launch"
+    }
+  ]
+}
