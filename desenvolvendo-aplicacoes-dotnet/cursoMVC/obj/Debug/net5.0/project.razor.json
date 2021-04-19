@@ -15619,6 +15619,21 @@
   "RootNamespace": "CursoMVC",
   "Documents": [
     {
+      "FilePath": "c:\\Acompanhamentos MOD\\Filipe\\SI\\Dev\\Projetos\\LocalizaLabs1\\bootcamp-localiza-labs-net-developer\\desenvolvendo-aplicacoes-dotnet\\cursoMVC\\Views\\Produtos\\Details.cshtml",
+      "TargetPath": "Views\\Produtos\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Acompanhamentos MOD\\Filipe\\SI\\Dev\\Projetos\\LocalizaLabs1\\bootcamp-localiza-labs-net-developer\\desenvolvendo-aplicacoes-dotnet\\cursoMVC\\Views\\Produtos\\Delete.cshtml",
+      "TargetPath": "Views\\Produtos\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Acompanhamentos MOD\\Filipe\\SI\\Dev\\Projetos\\LocalizaLabs1\\bootcamp-localiza-labs-net-developer\\desenvolvendo-aplicacoes-dotnet\\cursoMVC\\Views\\Produtos\\Index.cshtml",
+      "TargetPath": "Views\\Produtos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Acompanhamentos MOD\\Filipe\\SI\\Dev\\Projetos\\LocalizaLabs1\\bootcamp-localiza-labs-net-developer\\desenvolvendo-aplicacoes-dotnet\\cursoMVC\\Views\\Categorias\\Details.cshtml",
       "TargetPath": "Views\\Categorias\\Details.cshtml",
       "FileKind": "mvc"
@@ -15649,6 +15664,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Acompanhamentos MOD\\Filipe\\SI\\Dev\\Projetos\\LocalizaLabs1\\bootcamp-localiza-labs-net-developer\\desenvolvendo-aplicacoes-dotnet\\cursoMVC\\Views\\Produtos\\Edit.cshtml",
+      "TargetPath": "Views\\Produtos\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Acompanhamentos MOD\\Filipe\\SI\\Dev\\Projetos\\LocalizaLabs1\\bootcamp-localiza-labs-net-developer\\desenvolvendo-aplicacoes-dotnet\\cursoMVC\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -15661,6 +15681,11 @@
     {
       "FilePath": "c:\\Acompanhamentos MOD\\Filipe\\SI\\Dev\\Projetos\\LocalizaLabs1\\bootcamp-localiza-labs-net-developer\\desenvolvendo-aplicacoes-dotnet\\cursoMVC\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Acompanhamentos MOD\\Filipe\\SI\\Dev\\Projetos\\LocalizaLabs1\\bootcamp-localiza-labs-net-developer\\desenvolvendo-aplicacoes-dotnet\\cursoMVC\\Views\\Produtos\\Create.cshtml",
+      "TargetPath": "Views\\Produtos\\Create.cshtml",
       "FileKind": "mvc"
     },
     {

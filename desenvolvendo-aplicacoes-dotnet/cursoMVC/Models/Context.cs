@@ -6,10 +6,12 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CursoMVC.Models
 {
-    public class Contexto : DbContext
+    public class Context : DbContext
 
     {
         public DbSet<Categoria> Categorias { get; set; } //Informa Entity sobre a existência de tabela da categoria
+
+        public DbSet<Produto> Produtos { get; set; }
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
