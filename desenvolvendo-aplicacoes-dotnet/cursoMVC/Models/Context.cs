@@ -18,5 +18,10 @@ namespace CursoMVC.Models
         {
             optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=Cursomvc;Integrated Security=True"); //Aponta qual banco de dados iremos utilizar
         }
+
+        public void SetModified(Categoria categoria)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -213,3 +213,14 @@ C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-la
 C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desenvolvendo-aplicacoes-dotnet\cursoMVC\obj\Debug\net5.0\Razor\Views\Produtos\Edit.cshtml.g.cs
 C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desenvolvendo-aplicacoes-dotnet\cursoMVC\obj\Debug\net5.0\Razor\Views\Produtos\Index.cshtml.g.cs
 C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desenvolvendo-aplicacoes-dotnet\cursoMVC\obj\Debug\net5.0\CursoMVC.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desenvolvendo-aplicacoes-dotnet\cursoMVC\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desenvolvendo-aplicacoes-dotnet\cursoMVC\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desenvolvendo-aplicacoes-dotnet\cursoMVC\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desenvolvendo-aplicacoes-dotnet\cursoMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desenvolvendo-aplicacoes-dotnet\cursoMVC\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desenvolvendo-aplicacoes-dotnet\cursoMVC\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desenvolvendo-aplicacoes-dotnet\cursoMVC\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desenvolvendo-aplicacoes-dotnet\cursoMVC\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desenvolvendo-aplicacoes-dotnet\cursoMVC\bin\Debug\net5.0\System.Collections.Immutable.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desenvolvendo-aplicacoes-dotnet\cursoMVC\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desenvolvendo-aplicacoes-dotnet\cursoMVC\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
