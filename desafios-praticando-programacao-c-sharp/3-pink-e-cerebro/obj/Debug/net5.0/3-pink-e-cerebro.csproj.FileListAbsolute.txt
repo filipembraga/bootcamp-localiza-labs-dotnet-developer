@@ -1,0 +1,16 @@
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-praticando-programacao-c-sharp\3-pink-e-cerebro\bin\Debug\net5.0\3-pink-e-cerebro.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-praticando-programacao-c-sharp\3-pink-e-cerebro\bin\Debug\net5.0\3-pink-e-cerebro.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-praticando-programacao-c-sharp\3-pink-e-cerebro\bin\Debug\net5.0\3-pink-e-cerebro.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-praticando-programacao-c-sharp\3-pink-e-cerebro\bin\Debug\net5.0\3-pink-e-cerebro.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-praticando-programacao-c-sharp\3-pink-e-cerebro\bin\Debug\net5.0\3-pink-e-cerebro.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-praticando-programacao-c-sharp\3-pink-e-cerebro\bin\Debug\net5.0\ref\3-pink-e-cerebro.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-praticando-programacao-c-sharp\3-pink-e-cerebro\bin\Debug\net5.0\3-pink-e-cerebro.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-praticando-programacao-c-sharp\3-pink-e-cerebro\obj\Debug\net5.0\3-pink-e-cerebro.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-praticando-programacao-c-sharp\3-pink-e-cerebro\obj\Debug\net5.0\3-pink-e-cerebro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-praticando-programacao-c-sharp\3-pink-e-cerebro\obj\Debug\net5.0\3-pink-e-cerebro.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-praticando-programacao-c-sharp\3-pink-e-cerebro\obj\Debug\net5.0\3-pink-e-cerebro.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-praticando-programacao-c-sharp\3-pink-e-cerebro\obj\Debug\net5.0\3-pink-e-cerebro.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-praticando-programacao-c-sharp\3-pink-e-cerebro\obj\Debug\net5.0\3-pink-e-cerebro.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-praticando-programacao-c-sharp\3-pink-e-cerebro\obj\Debug\net5.0\ref\3-pink-e-cerebro.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-praticando-programacao-c-sharp\3-pink-e-cerebro\obj\Debug\net5.0\3-pink-e-cerebro.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\desafios-praticando-programacao-c-sharp\3-pink-e-cerebro\obj\Debug\net5.0\3-pink-e-cerebro.genruntimeconfig.cache
