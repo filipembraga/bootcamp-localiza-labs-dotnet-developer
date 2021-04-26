@@ -1,0 +1,62 @@
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\bin\Debug\net5.0\CursoAPI.exe
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\bin\Debug\net5.0\CursoAPI.deps.json
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\bin\Debug\net5.0\CursoAPI.runtimeconfig.json
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\bin\Debug\net5.0\CursoAPI.runtimeconfig.dev.json
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\bin\Debug\net5.0\CursoAPI.dll
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\bin\Debug\net5.0\ref\CursoAPI.dll
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\bin\Debug\net5.0\CursoAPI.pdb
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\obj\Debug\net5.0\CursoAPI.csprojAssemblyReference.cache
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\obj\Debug\net5.0\CursoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\obj\Debug\net5.0\CursoAPI.AssemblyInfoInputs.cache
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\obj\Debug\net5.0\CursoAPI.AssemblyInfo.cs
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\obj\Debug\net5.0\CursoAPI.csproj.CoreCompileInputs.cache
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\obj\Debug\net5.0\CursoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\obj\Debug\net5.0\CursoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\obj\Debug\net5.0\staticwebassets\CursoAPI.StaticWebAssets.Manifest.cache
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\obj\Debug\net5.0\staticwebassets\CursoAPI.StaticWebAssets.xml
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\obj\Debug\net5.0\scopedcss\bundle\CursoAPI.styles.css
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\obj\Debug\net5.0\CursoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\obj\Debug\net5.0\CursoAPI.csproj.CopyComplete
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\obj\Debug\net5.0\CursoAPI.dll
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\obj\Debug\net5.0\ref\CursoAPI.dll
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\obj\Debug\net5.0\CursoAPI.pdb
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\obj\Debug\net5.0\CursoAPI.genruntimeconfig.cache
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\bin\Debug\net5.0\CursoAPI.xml
+C:\Users\filipe.braga\source\repos\Curso-API-DIO\CursoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\bin\Debug\net5.0\appsettings.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\bin\Debug\net5.0\CursoAPI.exe
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\bin\Debug\net5.0\CursoAPI.deps.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\bin\Debug\net5.0\CursoAPI.runtimeconfig.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\bin\Debug\net5.0\CursoAPI.runtimeconfig.dev.json
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\bin\Debug\net5.0\CursoAPI.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\bin\Debug\net5.0\ref\CursoAPI.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\bin\Debug\net5.0\CursoAPI.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\bin\Debug\net5.0\CursoAPI.xml
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\obj\Debug\net5.0\CursoAPI.csprojAssemblyReference.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\obj\Debug\net5.0\CursoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\obj\Debug\net5.0\CursoAPI.AssemblyInfoInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\obj\Debug\net5.0\CursoAPI.AssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\obj\Debug\net5.0\CursoAPI.csproj.CoreCompileInputs.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\obj\Debug\net5.0\CursoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\obj\Debug\net5.0\CursoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\obj\Debug\net5.0\staticwebassets\CursoAPI.StaticWebAssets.Manifest.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\obj\Debug\net5.0\staticwebassets\CursoAPI.StaticWebAssets.xml
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\obj\Debug\net5.0\scopedcss\bundle\CursoAPI.styles.css
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\obj\Debug\net5.0\CursoAPI.RazorTargetAssemblyInfo.cache
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\obj\Debug\net5.0\CursoAPI.csproj.CopyComplete
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\obj\Debug\net5.0\CursoAPI.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\obj\Debug\net5.0\ref\CursoAPI.dll
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\obj\Debug\net5.0\CursoAPI.pdb
+C:\Acompanhamentos MOD\Filipe\SI\Dev\Projetos\LocalizaLabs1\bootcamp-localiza-labs-net-developer\arquitetura-backend-donet-core\CursoAPI\obj\Debug\net5.0\CursoAPI.genruntimeconfig.cache
